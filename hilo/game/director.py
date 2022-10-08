@@ -1,3 +1,4 @@
+from game.card import Card
 #Director Behaviors check guess. check next card. display next card. 
 # check score. ask if player wants to play again.
 
@@ -6,6 +7,12 @@ score = 300
 first_card = 1
 next_card = 3
 
+class Director:
+    """A person who directs the game. 
+    
+    The responsibility of a Director is to control the sequence of play.
+    Attributes:
+    """
 print(f"\nThe card is: {first_card}")
 
 higher_or_lower = input("Higher or lower? [h/l] ").lower
