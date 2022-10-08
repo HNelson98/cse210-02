@@ -1,19 +1,42 @@
-# cse210-02
+# CSE210-02
 
+# Hilo
 
-# Objects
+## Objects
+---
 Card
 Score
 
-# Card Behavors
+## Card Behavors
+---
 create fist card.
 creat second card.
 display one number at a time.
 second card becomes first, if player deceides to continue.
 
-#Director Behavors
+## Director Behavors
+---
 check guess.
 check next card.
 display next card.
 check score.
 ask if player wants to play again.
+
+## Project Structure
+---
+The project files and folders are organized as follows:
+```
+root
++-- hilo
+  +-- game
+  +-- __main__.py
++-- README.md
+```
+
+## Required Technologies
+---
+* Python 3.8.0
+
+## Authors
+---
+* Amon Brollo (amonbrollo@gmail.com)
