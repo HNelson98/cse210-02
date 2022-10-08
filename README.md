@@ -4,23 +4,23 @@
 
 ## Objects
 ---
-Card
-Score
+* Card
+* Score
 
-## Card Behavors
+## Card Behaviors
 ---
-create fist card.
-creat second card.
-display one number at a time.
-second card becomes first, if player deceides to continue.
+* create fist card.
+* create second card.
+* display one number at a time.
+* second card becomes first, if player decides to continue.
 
-## Director Behavors
+## Director Behaviors
 ---
-check guess.
-check next card.
-display next card.
-check score.
-ask if player wants to play again.
+* check guess.
+* check next card.
+* display next card.
+* check score.
+* ask if player wants to play again.
 
 ## Project Structure
 ---
