@@ -40,3 +40,4 @@ root
 ## Authors
 ---
 * Amon Brollo (amonbrollo@gmail.com)
+* Danny Walter (wal16025@byui.edu)
